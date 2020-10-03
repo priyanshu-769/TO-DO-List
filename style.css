@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+header, .container {
+    text-align: center;
+    color: #ffffff;
+}
+
+#inputField {
+    width: 300px;
+    height: 30px;
+    border: 2px solid #000000;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#addTask {
+    margin: 10px;
+    border: 2px solid #000000;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#addTask:hover {
+    cursor: pointer;
+}
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+}
+
+.line {
+    border: 1px solid #000000;
+}
+
